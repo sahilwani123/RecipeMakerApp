@@ -67,7 +67,7 @@ The **Recipe Maker** app allows users to:
 
 | Name | GitHub | Email |
 |------|--------|-------|
-| Sahil Wani | (https://github.com/sahilwani123) | sahilwaniii4022@gmail.com |
+| Vanshika | (https://github.com/Vanshikamahant) | vanshikamahant@gmail.com |
 | Uman Muzaffar | (https://github.com/UmanMuzaffar) | umandand05@gmail.com |
 
 ---
