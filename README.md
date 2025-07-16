@@ -7,14 +7,14 @@ A sleek mobile app for discovering, creating, and saving amazing Indian recipes.
 ## 📸 Screenshots
 
 > App screenshots below:
-- 🏠 Home Page
-- <img width="378" height="811" alt="Screenshot 2025-07-16 124428" src="https://github.com/user-attachments/assets/c23033b0-4a2b-4e4e-8bbe-10b10996ba5c" />
+- 🏠 Home Page <img width="378" height="811" alt="Screenshot 2025-07-16 124428" src="https://github.com/user-attachments/assets/c23033b0-4a2b-4e4e-8bbe-10b10996ba5c" />
+- ➕ Add Recipe<img width="367" height="891" alt="Screenshot 2025-07-16 124636" src="https://github.com/user-attachments/assets/d49e4565-6703-4216-aab7-a309eb906a06" />
+- ❤️ Favorites<img width="361" height="751" alt="Screenshot 2025-07-16 124604" src="https://github.com/user-attachments/assets/f8196086-16df-4094-afa4-f7142681668a" />
+- 🧾 
+- 🔐 Sign In (filled)<img width="375" height="816" alt="Screenshot 2025-07-16 124400" src="https://github.com/user-attachments/assets/536796f1-0910-4512-b24a-f6bccfc2be52" />
+- 🔓 Sign In (empty)<img width="355" height="824" alt="Screenshot 2025-07-16 002735" src="https://github.com/user-attachments/assets/0c876e4c-3bad-4085-ad75-42dd88305ced" />
+- 🕒 Timer
 
-- ➕ Add Recipe
-- ❤️ Favorites
-- 🧾 Recipe Cards
-- 🔐 Sign In (filled)
-- 🔓 Sign In (empty)
 
 ---
 
