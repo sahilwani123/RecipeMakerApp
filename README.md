@@ -1,30 +1,116 @@
-# Mobile app design
+# 🍲 Recipe Maker
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+A sleek mobile app for discovering, creating, and saving amazing Indian recipes. From Butter Chicken to Gulab Jamun, it's your go-to cooking companion — built with **React Native** and **Expo**.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/vanshika-s-projects-56a51496/v0-mobile-app-design)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/BRWFumhhpjf)
+---
 
-## Overview
+## 📸 Screenshots
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+> App screenshots below:
+- 🏠 Home Page
+- ➕ Add Recipe
+- ❤️ Favorites
+- 🧾 Recipe Cards
+- 🔐 Sign In (filled)
+- 🔓 Sign In (empty)
 
-## Deployment
+---
 
-Your project is live at:
+## ✨ Purpose of the App
 
-**[https://vercel.com/vanshika-s-projects-56a51496/v0-mobile-app-design](https://vercel.com/vanshika-s-projects-56a51496/v0-mobile-app-design)**
+The **Recipe Maker** app allows users to:
 
-## Build your app
+- Explore and filter Indian recipes by category (e.g., Snacks, Desserts, Curries).
+- Add new custom recipes with difficulty level, ingredients, and an image.
+- Mark recipes as **favorites** for quick access.
+- Sign in with email or social accounts to **securely save recipes**.
 
-Continue building your app on:
+> This project was inspired by the love for Indian cuisine and the need for a modern way to digitally **store, share, and discover recipes**.
 
-**[https://v0.dev/chat/projects/BRWFumhhpjf](https://v0.dev/chat/projects/BRWFumhhpjf)**
+---
 
-## How It Works
+## 🛠 Tech Stack
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+| Feature | Technology |
+|--------|-------------|
+| **Framework** | React Native (via Expo) |
+| **Routing** | React Navigation / Expo Router |
+| **Camera** | expo-camera |
+| **Notifications** | expo-notifications |
+| **UI Components** | NativeBase / Custom React Native Components |
+| **Authentication** | Firebase Auth |
+| **Database** | Firebase Firestore or preferred backend |
+| **Icons** | React Native Vector Icons / Lucide Icons |
+
+---
+
+## 🤝 Collaborators
+
+| Name | GitHub | Email |
+|------|--------|-------|
+| Sahil Wani | [@yourusername](https://github.com/yourusername) | sahilwaniii4022@gmail.com |
+
+> Add more team members here if needed.
+
+---
+
+## 📚 What We Learned
+
+- File-based navigation using **Expo Router**
+- Controlled inputs and form validation
+- Camera integration to **upload recipe images**
+- Local push notifications with **expo-notifications**
+- UI layout using **View, ScrollView, FlatList, Text**
+- State and effect management using `useState`, `useEffect`, and `useRef`
+- Firebase Authentication & securing protected routes
+
+---
+
+## 🚧 Installation & Running Locally
+
+> Make sure you have **Node.js** and **Expo CLI** installed.
+
+```bash
+git clone https://github.com/yourusername/recipe-maker-app.git
+cd recipe-maker-app
+npm install
+npx expo start
+```
+
+### 📱 To Test on a Device:
+- Install **Expo Go** app on Android/iOS
+- Scan the QR code shown in the terminal/browser after `npx expo start`
+
+---
+
+## 🔒 Authentication
+
+- Firebase Email/Password Auth integrated
+- Add your Firebase config in a `.env` or config file
+- Optionally extend to support Google / Apple Sign-In
+
+---
+
+## 📁 Folder Structure (Basic)
+
+```
+/app
+  /screens
+  /components
+  /assets
+  /services
+/App.js
+```
+
+---
+
+## 📬 Feedback & Contributions
+
+Have ideas to improve? Found a bug?  
+Feel free to open a pull request or issue!
+
+---
+
+## 🧾 License
+
+This project is licensed under the [MIT License](LICENSE).
