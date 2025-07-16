@@ -7,13 +7,30 @@ A sleek mobile app for discovering, creating, and saving amazing Indian recipes.
 ## 📸 Screenshots
 
 > App screenshots below:
-- 🏠 Home Page <img width="378" height="811" alt="Screenshot 2025-07-16 124428" src="https://github.com/user-attachments/assets/c23033b0-4a2b-4e4e-8bbe-10b10996ba5c" />
-- ➕ Add Recipe<img width="367" height="891" alt="Screenshot 2025-07-16 124636" src="https://github.com/user-attachments/assets/d49e4565-6703-4216-aab7-a309eb906a06" />
-- ❤️ Favorites<img width="361" height="751" alt="Screenshot 2025-07-16 124604" src="https://github.com/user-attachments/assets/f8196086-16df-4094-afa4-f7142681668a" />
-- 🧾 
-- 🔐 Sign In (filled)<img width="375" height="816" alt="Screenshot 2025-07-16 124400" src="https://github.com/user-attachments/assets/536796f1-0910-4512-b24a-f6bccfc2be52" />
-- 🔓 Sign In (empty)<img width="355" height="824" alt="Screenshot 2025-07-16 002735" src="https://github.com/user-attachments/assets/0c876e4c-3bad-4085-ad75-42dd88305ced" />
+- 🏠 Home Page
+   <img width="378" height="811" alt="Screenshot 2025-07-16 124428" src="https://github.com/user-attachments/assets/c23033b0-4a2b-4e4e-8bbe-10b10996ba5c" />
+   
+- ➕ Add Recipe
+  <img width="367" height="891" alt="Screenshot 2025-07-16 124636" src="https://github.com/user-attachments/assets/d49e4565-6703-4216-aab7-a309eb906a06" />
+  
+- ❤️ Favorites
+  <img width="361" height="751" alt="Screenshot 2025-07-16 124604" src="https://github.com/user-attachments/assets/f8196086-16df-4094-afa4-f7142681668a" />
+  
+- 🧾 Scroll View
+  <img width="357" height="830" alt="Screenshot 2025-07-16 002821" src="https://github.com/user-attachments/assets/9f5e28d6-6fd0-4bc7-a661-1950e3e96803" />
+
+- 🔐 Sign In (filled)
+  <img width="375" height="816" alt="Screenshot 2025-07-16 124400" src="https://github.com/user-attachments/assets/536796f1-0910-4512-b24a-f6bccfc2be52" />
+  
+- 🔓 Sign In (empty)
+  <img width="355" height="824" alt="Screenshot 2025-07-16 002735" src="https://github.com/user-attachments/assets/0c876e4c-3bad-4085-ad75-42dd88305ced" />
+  
 - 🕒 Timer
+  <img width="375" height="658" alt="Screenshot 2025-07-16 124617" src="https://github.com/user-attachments/assets/f9678851-6528-4674-a49c-0d6d08c78b8b" />
+
+- 🔍 Search
+  <img width="357" height="193" alt="Screenshot 2025-07-16 124648" src="https://github.com/user-attachments/assets/8b73fb63-463c-4b3e-818a-9322f95cc0fb" />
+
 
 
 ---
@@ -50,9 +67,8 @@ The **Recipe Maker** app allows users to:
 
 | Name | GitHub | Email |
 |------|--------|-------|
-| Sahil Wani | [@yourusername](https://github.com/yourusername) | sahilwaniii4022@gmail.com |
-
-> Add more team members here if needed.
+| Sahil Wani | (https://github.com/sahilwani123) | sahilwaniii4022@gmail.com |
+| Uman Muzaffar | (https://github.com/UmanMuzaffar) | umandand05@gmail.com |
 
 ---
 
