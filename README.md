@@ -8,6 +8,8 @@ A sleek mobile app for discovering, creating, and saving amazing Indian recipes.
 
 > App screenshots below:
 - 🏠 Home Page
+- <img width="378" height="811" alt="Screenshot 2025-07-16 124428" src="https://github.com/user-attachments/assets/c23033b0-4a2b-4e4e-8bbe-10b10996ba5c" />
+
 - ➕ Add Recipe
 - ❤️ Favorites
 - 🧾 Recipe Cards
